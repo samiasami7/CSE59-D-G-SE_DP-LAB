@@ -1,4 +1,3 @@
-# Your SRS
 # Software Requirements Specification (SRS)
 
 ## Project Title: Advanced Temperature Converter System
