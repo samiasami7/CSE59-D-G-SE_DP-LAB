@@ -253,9 +253,9 @@ User → Inputs: Name, Age, Gender, Temperature, Unit Selection → System → O
 6. System updates display with result and health info.
 7. Optional: User selects suggestions or temperature variations → system displays advice.
 
-### State Diagram
+### ER diagram
 
-* Idle → Input → Processing → Display Result → Idle/Reset
+<img src="images/ER Diagram.png">
 
 ---
 
